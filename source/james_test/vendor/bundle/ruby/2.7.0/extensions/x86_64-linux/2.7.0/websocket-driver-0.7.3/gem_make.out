@@ -1,0 +1,15 @@
+current directory: /home/tcc/Desktop/james/rails-challenge/source/james_test/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/usr/local/rvm/rubies/ruby-2.7.0/bin/ruby -I /usr/local/rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20200923-7131-17sdh1f.rb extconf.rb
+creating Makefile
+
+current directory: /home/tcc/Desktop/james/rails-challenge/source/james_test/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/tcc/Desktop/james/rails-challenge/source/james_test/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/tcc/Desktop/james/rails-challenge/source/james_test/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20200923-7131-1p6z99
